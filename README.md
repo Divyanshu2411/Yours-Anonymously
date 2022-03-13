@@ -12,10 +12,13 @@
       git clone https://github.com/Divyanshu2411/Yours-Anonymously.git
       ```
       Connect mongoose database. Enter following text on command line.
-      ```mongod```
+      ```
+      mongod
+      ```
       
       On command line to start the project.
-      ```npm start
+      ```
+      npm start
       ```
       And that's it, localhost:3000 will host the projejct
  * We have used
