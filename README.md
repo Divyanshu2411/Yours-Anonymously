@@ -70,7 +70,7 @@ We have tried to cover all types of furnitures and appliances in our website and
   * **Rotating Image on Top of Image**
     * The best part is it was done using purely css. 
 
-- 📫 How to reach us **reach.divyanshu@gmail.com** and **sneha.it19@nsut.ac.in**
+- 📫 How to reach us **reach.divyanshukumar@gmail.com** and **sneha.it19@nsut.ac.in**
 
 
 <h3 align="left">Languages and Tools:</h3>
