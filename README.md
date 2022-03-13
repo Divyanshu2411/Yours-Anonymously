@@ -1,7 +1,7 @@
-# FurnApp
-The IEEE web-o-mania competition code.
-<h1 align="center">Hi 👋, we are &ltDIV&gt, a team of developers from NSUT.</h1>
-<h3 align="center">A passionate frontend development team from India</h3>
+# Your Anonymously
+
+<h1 align="center">Hi 👋, we are team Anonymous, a couple of developers from NSUT.</h1>
+<h3 align="center">A passionate web development team from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu2411&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu2411" /> </p>
 
@@ -9,10 +9,16 @@ The IEEE web-o-mania competition code.
  
  - 🌱 To run this project on local machine
       ```
-      git clone https://github.com/Divyanshu2411/FurnApp.git
+      git clone https://github.com/Divyanshu2411/Yours-Anonymously.git
       ```
-      And that's it, open index.html to run the website.
- * We have used only Bootstrap framework
+      Connect mongoose database. Enter following text on command line.
+      ```mongod```
+      
+      On command line to start the project.
+      ```npm start
+      ```
+      And that's it, localhost:3000 will host the projejct
+ * We have used
  
 **We used following libraries**
 * intro.js 
@@ -61,7 +67,7 @@ We have tried to cover all types of furnitures and appliances in our website and
   * **Rotating Image on Top of Image**
     * The best part is it was done using purely css. 
 
-- 📫 How to reach us **divyanshu.it19@nsut.ac.in**
+- 📫 How to reach us **reach.divyanshu@gmail.com** and **sneha.it19@nsut.ac.in**
 
 
 <h3 align="left">Languages and Tools:</h3>
